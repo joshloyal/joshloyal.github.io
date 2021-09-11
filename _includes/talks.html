@@ -1,10 +1,10 @@
 <div class="news">
-  <h2>News</h2>
-  {% if site.news  %}
+  <h2>Talks</h2>
+  {% if site.talks  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign news = site.news | reverse %}
-      {% for item in news limit: site.news_limit %}
+      {% assign talks = site.talks | reverse %}
+      {% for item in talks limit: site.talks_limit %}
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
           <td>
@@ -19,6 +19,6 @@
       </table>
     </div>
   {% else %}
-    <p>No news so far...</p>
+    <p>No talks so far...</p>
   {% endif %}
 </div>

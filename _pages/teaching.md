@@ -1,11 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+order: 4
+title: Teaching
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here is material I have used for teaching in the past.
 
-Organize your courses by years, topics, or universities, however you like!
+#### Frequentist Confidence Interval Visualization
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/confidence-interval-app.png' | relative_url }}" alt="" title=""/>
+    </div>
+</div>
+<div class="caption">
+    Shiny application demonstrating the behavior of frequentist confidence intervals.
+</div>
+
+[[Site]](https://joshloyal.shinyapps.io/confidence-interval-app/) [[Code]](https://github.com/joshloyal/confidence-interval-app/)
