@@ -3,7 +3,6 @@ layout: about
 order: 1
 title: about
 permalink: /
-description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
