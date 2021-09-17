@@ -58,6 +58,14 @@
           {% endif %}
           {% endif %}
           {% endfor %}
+          {% if site.cv_name %}
+          <!-- Blog -->
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+            <a class="nav-link" href="/assets/pdf/{{site.cv_name}}.pdf">
+              CV
+            </a>
+          </li>
+          {% endif %}
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
