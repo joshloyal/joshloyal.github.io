@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Department of Statistics](https://stat.illinois.edu/) at the University of Illinois at Urbana-Champaign advised by Professor [Yuguo Chen](https://stat.illinois.edu/directory/profile/yuguo) and [Ruoqing Zhu](https://sites.google.com/site/teazrq/home).
+I am a PhD candidate in the [Department of Statistics](https://stat.illinois.edu/) at the University of Illinois at Urbana-Champaign advised by Professors [Yuguo Chen](https://stat.illinois.edu/directory/profile/yuguo) and [Ruoqing Zhu](https://sites.google.com/site/teazrq/home).
 
 My research interests include statistical network analysis, Bayesian inference, machine learning, data science, and statistical computing.
 
