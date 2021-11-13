@@ -40,7 +40,7 @@ Modeling the dynamics of complex social systems is an essential component of man
 
 **References**
 
-* *Loyal, J.D.*, Chen, Y. (2021). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Under review.
+* *Loyal, J.D.*, Chen, Y. (2021). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Accepted at *Bayesian Analysis*.
 [[preprint]](https://arxiv.org/abs/2003.07404) [[code]](https://github.com/joshloyal/dynetlsm)
 
 * *Loyal, J.D.*, Chen, Y. (2021). **An eigenmodel for dynamic multilayer networks**. Under review.

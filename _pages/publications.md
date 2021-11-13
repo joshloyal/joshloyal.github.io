@@ -10,6 +10,9 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Refereed Publications
 
+* *Loyal, J.D.*, Chen, Y. (2021). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Accepted at *Bayesian Analysis*.
+[[preprint]](https://arxiv.org/abs/2003.07404) [[code]](https://github.com/joshloyal/dynetlsm)
+
 * *Loyal, J.D.*, Chen, Y. (2020). **Statistical network analysis: A review with applications to the coronavirus 2019 pandemic**. Accepted at *International Statistical Review*.
 [[article]](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12398)
 
@@ -17,14 +20,11 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Pre-Prints
 
-* *Loyal, J.D.*, Chen, Y. (2021). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Invited minor revision.
-[[preprint]](https://arxiv.org/abs/2003.07404) [[code]](https://github.com/joshloyal/dynetlsm)
+* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2021). **Dimension reduction forests: Local variable importance using structured random forests**. Invited revision.
+[[preprint]](https://arxiv.org/abs/2103.13233) [[code]](https://github.com/joshloyal/drforest)
 
 * *Loyal, J.D.*, Chen, Y. (2021). **An eigenmodel for dynamic multilayer networks**. Under review.
 [[preprint]](https://arxiv.org/abs/2103.12831) [[code]](https://github.com/joshloyal/multidynet)
-
-* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2021). **Dimension reduction forests: Local variable importance using structured random forests**. Invited revision.
-[[preprint]](https://arxiv.org/abs/2103.13233) [[code]](https://github.com/joshloyal/drforest)
 
 
 <br>
