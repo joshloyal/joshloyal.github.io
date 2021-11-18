@@ -71,5 +71,5 @@ Modern problems in statistical learning and data science are increasingly concer
 
 **References**:
 
-* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2021). **Dimension reduction forests: Local variable importance using structured random forests**. Under review.
+* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2021). **Dimension reduction forests: Local variable importance using structured random forests**. In revision.
 [[preprint]](https://arxiv.org/abs/2103.13233) [[code]](https://github.com/joshloyal/drforest)
