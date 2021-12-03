@@ -36,8 +36,8 @@ Modeling the dynamics of complex social systems is an essential component of man
 </div>
 <div class="caption">
     Network embeddings before and during the conflict in Crimea between Ukraine and Russia
-    <a href="/assests/gif/russia_ukraine.gif">[GIF 1]</a>
-    <a href="/assests/gif/icews.gif">[GIF 2]</a>.
+    <a href="/assets/gif/icews.gif">[GIF 1]</a>.
+    <a href="/assets/gif/russia_ukraine.gif">[GIF 2]</a>
 </div>
 
 **References**
