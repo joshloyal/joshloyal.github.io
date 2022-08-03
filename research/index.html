@@ -11,7 +11,7 @@
   Joshua D. Loyal
 
 
-  | blog
+  | Research
 
 
 </title>
@@ -41,7 +41,7 @@
 -->
 <link rel="icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/research/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -125,9 +125,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/research/">
                 Research
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -158,7 +160,7 @@
           
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/assets/pdf/joshua_cv.pdf">
               CV
             </a>
@@ -166,11 +168,9 @@
           
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="https://joshloyal.netlify.app/">
               Blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -189,56 +189,97 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>joshloyal</h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Research</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>My research interests include</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
+<ul>
+  <li>
+    <p><strong>Statistical inference for networks</strong>: latent space models, community detection, dynamic and multilayer networks, Bayesian inference.</p>
+  </li>
+  <li>
+    <p><strong>Statistical learning and data science</strong>: classification, regression, dimension reduction, clustering, visualization, random forests and trees, deep learning.</p>
+  </li>
+  <li>
+    <p><strong>Bayesian methodology</strong>: Monte Carlo methods, variational inference, Bayesian nonparametrics, scalable computation.</p>
+  </li>
+</ul>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<p><br /></p>
 
+<h4 id="statistical-network-analysis">Statistical Network Analysis</h4>
 
+<p>Modeling the dynamics of complex social systems is an essential component of many applied problems. To understand the formation and dissolution of international alliances, predict regional conflicts such as the Arab Spring and the emergence of ISIS, and forecast the trajectory of infectious disease spread throughout a community, we need models of each complex system’s dynamics. As such, my research develops statistical models that infer vital characteristics within the observed dynamics of complex systems. My work in this area focuses in addressing estimation and inference problems by exploiting low-dimensional representations using a combination of latent space models, hidden Markov models, linear dynamical systems, and Bayesian inference. I have developed new statistical models for analyzing dynamic and multilayer networks, including methodology for community detection, prediction, forecasting, and the estimation of missing data. I have also introduced widely applicable variational inference procedures that allow for estimation in large networks.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid" src="/assets/img/alliances_ls.jpeg" alt="" title="International alliance networks during the Cold War" />
+    </div>
+</div>
+<div class="caption">
+   Inferred node embeddings and community structure for a network of international alliances during the Cold War.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid" src="/assets/img/icews_latent_color.png" alt="" title="International alliance networks during the Cold War" />
+    </div>
+</div>
+<div class="caption">
+    Network embeddings before and during the conflict in Crimea between Ukraine and Russia
+    <a href="/assets/gif/icews.gif">[GIF 1]</a>.
+    <a href="/assets/gif/russia_ukraine.gif">[GIF 2]</a>
+</div>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>
+    <p><em>Loyal, J.D.</em>, Chen, Y. (2022). <strong>A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks</strong>. Accepted at <em>Bayesian Analysis</em>.
+<a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Bayesian-Nonparametric-Latent-Space-Approach-to-Modeling-Evolving-Communities/10.1214/21-BA1300.full">[article]</a> <a href="https://github.com/joshloyal/dynetlsm">[code]</a></p>
+  </li>
+  <li>
+    <p><em>Loyal, J.D.</em>, Chen, Y. (2022). <strong>An eigenmodel for dynamic multilayer networks</strong>. Invited revision.
+<a href="https://arxiv.org/abs/2103.12831">[preprint]</a> <a href="https://github.com/joshloyal/multidynet">[code]</a></p>
+  </li>
+  <li>
+    <p><em>Loyal, J.D.</em>, Chen, Y. (2020). <strong>Statistical network analysis: A review with applications to the coronavirus 2019 pandemic</strong>. Accepted at <em>International Statistical Review</em>.
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12398">[article]</a></p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h4 id="statistical-learning-and-data-science">Statistical Learning and Data Science</h4>
+
+<p>Modern problems in statistical learning and data science are increasingly concerned with interpreting the results of powerful black-box estimators. For example, fields such as personalized medicine, policy-making, and bioinformatics currently require flexible estimators that can infer variable importance and reduce the dimension of the problem. My past work has exploited local low-dimensional structure in the data to provide interpretable solutions without losing flexibility. Specifically, I developed new techniques to infer local variable importance by using a combination of random forests and sufficient dimension reduction. Such local variable importance measures have applications in personalized medicine where the ability to tailor medical treatment to patients based on their unique genetic makeup can drastically decrease patient mortality.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid" src="/assets/img/kernel_comp.jpeg" alt="" title="" />
+    </div>
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid" src="/assets/img/local_svi.jpeg" alt="" title="" />
+    </div>
+</div>
+<div class="caption">
+   Induced kernel and local subspace variable importance from a dimension reduction forest.
+</div>
+
+<p><strong>References</strong>:</p>
+
+<ul>
+  <li><em>Loyal, J.D.</em>, Zhu, R., Cui, Y., and Zhang, X. (2022). <strong>Dimension reduction forests: Local variable importance using structured random forests</strong>. Accepted at <em>Journal of Computational and Graphical Statistics</em>.
+<a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2069777">[article]</a> <a href="https://github.com/joshloyal/drforest">[code]</a></li>
+</ul>
+
+  </article>
 
 </div>
 
