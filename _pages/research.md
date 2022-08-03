@@ -42,10 +42,10 @@ Modeling the dynamics of complex social systems is an essential component of man
 
 **References**
 
-* *Loyal, J.D.*, Chen, Y. (2021). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Accepted at *Bayesian Analysis*.
-[[preprint]](https://arxiv.org/abs/2003.07404) [[code]](https://github.com/joshloyal/dynetlsm)
+* *Loyal, J.D.*, Chen, Y. (2022). **A Bayesian nonparametric latent space approach to modeling evolving communities in dynamic networks**. Accepted at *Bayesian Analysis*.
+[[article]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/A-Bayesian-Nonparametric-Latent-Space-Approach-to-Modeling-Evolving-Communities/10.1214/21-BA1300.full) [[code]](https://github.com/joshloyal/dynetlsm)
 
-* *Loyal, J.D.*, Chen, Y. (2021). **An eigenmodel for dynamic multilayer networks**. Under review.
+* *Loyal, J.D.*, Chen, Y. (2022). **An eigenmodel for dynamic multilayer networks**. Invited revision.
 [[preprint]](https://arxiv.org/abs/2103.12831) [[code]](https://github.com/joshloyal/multidynet)
 
 * *Loyal, J.D.*, Chen, Y. (2020). **Statistical network analysis: A review with applications to the coronavirus 2019 pandemic**. Accepted at *International Statistical Review*.
@@ -73,5 +73,5 @@ Modern problems in statistical learning and data science are increasingly concer
 
 **References**:
 
-* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2021). **Dimension reduction forests: Local variable importance using structured random forests**. In revision.
-[[preprint]](https://arxiv.org/abs/2103.13233) [[code]](https://github.com/joshloyal/drforest)
+* *Loyal, J.D.*, Zhu, R., Cui, Y., and Zhang, X. (2022). **Dimension reduction forests: Local variable importance using structured random forests**. Accepted at *Journal of Computational and Graphical Statistics*.
+[[article]](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2069777) [[code]](https://github.com/joshloyal/drforest)
