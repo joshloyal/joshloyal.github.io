@@ -31,7 +31,7 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 ### Preprints
 
 * *Loyal, J.D.*, Chen, Y. (2023+). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**.\
-[[preprint]](/assets/pdf/glnem.pdf) [[code]](https://github.com/joshloyal/glnem)
+[[preprint]](https://arxiv.org/abs/2309.11654) [[code]](https://github.com/joshloyal/glnem)
 
 
 <br>
