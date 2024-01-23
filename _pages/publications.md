@@ -30,6 +30,9 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Preprints
 
+* *Loyal, J.D.* (2024+). **Fast Variational Inference of Latent Space Models for Dynamic Networks Using Bayesian P-Splines**.\
+[[preprint]](https://arxiv.org/abs/2401.09715) [[code]](https://github.com/joshloyal/splinetlsm)
+
 * *Loyal, J.D.*, Chen, Y. (2023+). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**.\
 [[preprint]](https://arxiv.org/abs/2309.11654) [[code]](https://github.com/joshloyal/glnem)
 
