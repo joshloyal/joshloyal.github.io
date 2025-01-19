@@ -6,11 +6,11 @@ title: Publications
 nav: true
 ---
 
-For an up-to-date list of my publications, see my [Google Scholar](https://scholar.google.com/citations?user=QrQmuvIAAAAJ).
+For an up-to-date list of my publications, see my [Google Scholar](https://scholar.google.com/citations?user=QrQmuvIAAAAJ). Students are <u>underlined</u>.
 
 ### Refereed Publications
 
-* *Loyal, J.D.*, Wu, X., Stewart, J.R. (2025). **A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks**. *Stat*. [[article]](https://arxiv.org/abs/2411.18433) [[code]](https://github.com/joshloyal/rlsm)
+* *Loyal, J.D.*, <u>Wu, X.</u>, Stewart, J.R. (2025). **A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks**. *Stat*. [[article]](https://arxiv.org/abs/2411.18433) [[code]](https://github.com/joshloyal/rlsm)
 
 * Fraterrigo, J.M., Chen, W., *Loyal, J.*, Euskirchen, E.S. (2024). **Soil microenvironmental variation drives belowground trait variation and interacts with macroclimate to structure aboveground trait variation of arctic shrubs**. *Journal of Ecology*. [[article]](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14278)
 
