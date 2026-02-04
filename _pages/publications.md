@@ -10,6 +10,12 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Refereed Publications
 
+* *Loyal, J.D.* (2025). **Fast Variational Inference of Latent Space Models for Dynamic Networks Using Bayesian P-Splines**. *Bayesian Analysis*.
+[[article]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Variational-Inference-of-Latent-Space-Models-for-Dynamic-Networks/10.1214/25-BA1545.full) [[code]](https://github.com/joshloyal/splinetlsm)
+
+* *Loyal, J.D.*, Chen, Y. (2025+). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**. *Biometrika*.
+[[article]](https://academic.oup.com/biomet/article/112/3/asaf014/8087427) [[code]](https://github.com/joshloyal/glnem)
+
 * *Loyal, J.D.*, <u>Wu, X.</u>, Stewart, J.R. (2025). **A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks**. *Stat*. [[article]](https://arxiv.org/abs/2411.18433) [[code]](https://github.com/joshloyal/rlsm)
 
 * Fraterrigo, J.M., Chen, W., *Loyal, J.*, Euskirchen, E.S. (2024). **Soil microenvironmental variation drives belowground trait variation and interacts with macroclimate to structure aboveground trait variation of arctic shrubs**. *Journal of Ecology*. [[article]](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14278)
@@ -34,12 +40,8 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Preprints
 
-* *Loyal, J.D.* (2024+). **Fast Variational Inference of Latent Space Models for Dynamic Networks Using Bayesian P-Splines**.\
-[[preprint]](https://arxiv.org/abs/2401.09715) [[code]](https://github.com/joshloyal/splinetlsm)
-
-* *Loyal, J.D.*, Chen, Y. (2023+). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**.\
-[[preprint]](https://arxiv.org/abs/2309.11654) [[code]](https://github.com/joshloyal/glnem)
-
+* *Loyal, J.D.* (2024+). **Generalized Bayesian Inference for Dynamic Random Dot Product Graphs**.\
+[[preprint]](https://arxiv.org/abs/2509.19748) [[code]](https://github.com/joshloyal/dynrdpg)
 
 <br>
 
