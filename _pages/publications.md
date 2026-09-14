@@ -10,10 +10,16 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Refereed Publications
 
+* Wu, X., *Loyal, J.D.* (2026). **A Latent Space Model for Disentangling the Effect of Covariates on Homophily and Reciprocity in Directed Networks**. *Computational Statistics \& Data Analysis*.
+[[article]](https://www.sciencedirect.com/science/article/pii/S0167947326001349) [[code]](https://github.com/joshloyal/lsmdhr)
+
+* *Loyal, J.D.* (2026). **Generalized Bayesian Inference for Dynamic Random Dot Product Graphs**. *Journal of Computational and Graphical Statistics*.
+[[article]](https://www.tandfonline.com/doi/abs/10.1080/10618600.2026.2714133) [[code]](https://github.com/joshloyal/DynamicRDPG)
+
 * *Loyal, J.D.* (2025). **Fast Variational Inference of Latent Space Models for Dynamic Networks Using Bayesian P-Splines**. *Bayesian Analysis*.
 [[article]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Variational-Inference-of-Latent-Space-Models-for-Dynamic-Networks/10.1214/25-BA1545.full) [[code]](https://github.com/joshloyal/splinetlsm)
 
-* *Loyal, J.D.*, Chen, Y. (2025+). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**. *Biometrika*.
+* *Loyal, J.D.*, Chen, Y. (2025). **A Spike-and-Slab Prior for Dimension Selection in Generalized Linear Network Eigenmodels**. *Biometrika*.
 [[article]](https://academic.oup.com/biomet/article/112/3/asaf014/8087427) [[code]](https://github.com/joshloyal/glnem)
 
 * *Loyal, J.D.*, <u>Wu, X.</u>, Stewart, J.R. (2025). **A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks**. *Stat*. [[article]](https://arxiv.org/abs/2411.18433) [[code]](https://github.com/joshloyal/rlsm)
@@ -39,9 +45,6 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 <br>
 
 ### Preprints
-
-* *Loyal, J.D.* (2024+). **Generalized Bayesian Inference for Dynamic Random Dot Product Graphs**.\
-[[preprint]](https://arxiv.org/abs/2509.19748) [[code]](https://github.com/joshloyal/dynrdpg)
 
 <br>
 
