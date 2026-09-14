@@ -10,7 +10,7 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 ### Refereed Publications
 
-* Wu, X., *Loyal, J.D.* (2026). **A Latent Space Model for Disentangling the Effect of Covariates on Homophily and Reciprocity in Directed Networks**. *Computational Statistics \& Data Analysis*.
+* Wu, X., *Loyal, J.D.* (2026). **A Latent Space Model for Disentangling the Effect of Covariates on Homophily and Reciprocity in Directed Networks**. *Computational Statistics & Data Analysis*.
 [[article]](https://www.sciencedirect.com/science/article/pii/S0167947326001349) [[code]](https://github.com/joshloyal/lsmdhr)
 
 * *Loyal, J.D.* (2026). **Generalized Bayesian Inference for Dynamic Random Dot Product Graphs**. *Journal of Computational and Graphical Statistics*.
@@ -41,10 +41,6 @@ For an up-to-date list of my publications, see my [Google Scholar](https://schol
 
 * *Loyal, J.D.*, Chen, Y. (2020). **Statistical Network Analysis: A Review with Applications to the Coronavirus 2019 Pandemic**. *International Statistical Review*.\
 [[article]](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12398)
-
-<br>
-
-### Preprints
 
 <br>
 
